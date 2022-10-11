@@ -26,7 +26,7 @@
 **System Design**
 
 - [Heterogeneous Networks](#Heterogeneous-Networks)
-- [Computing Paradigm](#Computing Paradigm)
+- [Computing Paradigm](#Computing-Paradigm)
 
 ## System Design
 ### Heterogeneous Networks
